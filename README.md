@@ -1,2 +1,3 @@
-# ai-prompt-generator
-Generate AI prompts easily
+# ai-prompt-builder
+
+Build AI prompts easily
